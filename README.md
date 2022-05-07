@@ -15,9 +15,12 @@ formulario para ingresar la URL de la imagen con estilos CSS de un documento int
 - Para ingresar a ver los archivos del proyecto, dirijase a la carpeta assets, y luego a los archivos js.
 - Después de descargar el proyecto, desde VSC abra una nueva terminal y ejecute : `npm install` y luego
 `node app.js` o puede ejecutar `npm install -g nodemon` y por ende luego `nodemon app.js`.
--Luego instalar los siquientes paquetes:  
-1. `npm i jimp`
 
+-Luego instalar los siquientes paquetes:  
+1. `npm i yargs`
+2. `npm i jimp`
+ - y por último:
+ - `node access.js run-server --k=123`
 
 
 ## Cómo se usa ⚙️
