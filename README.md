@@ -4,11 +4,11 @@ Proyecto que le permite a los usuarios de una resolver un problema con su softwa
 nuevos usuarios almacenando su nombre, apellido, hora de atención y su correspondiente código identificador.
 
 ## Contenidos aplicados 📖
-- Conociendo NPM
-- Manejo de dependencias
-- Conociendo paquetes en Node
-- Paquetes NPM que no procesan datos
-- Paquetes NPM para el procesamiento de datos
+
+- Interfaces de línea de comando con Yargs
+- Procesamiento de imágenes con JIMP
+- Bajando aplicaciones
+- Devolviendo sitios web estáticos
 
 
 ## Instrucciones 📌
@@ -16,16 +16,12 @@ nuevos usuarios almacenando su nombre, apellido, hora de atención y su correspo
 - Después de descargar el proyecto, desde VSC abra una nueva terminal y ejecute : `npm install` y luego
 `node app.js` o puede ejecutar `npm install -g nodemon` y por ende luego `nodemon app.js`.
 -Luego instalar los siquientes paquetes:  
-1. `npm i axios`
-2. `npm i uuid`
-3. `npm i moment`
-4. `npm i lodash`
-5. `npm i chalk@4.1.2`
+1. `npm i jimp`
+
 
 
 ## Cómo se usa ⚙️
-  Luego de la instalación, ingresa a la siguiente [ruta](http://localhost:8080/users) disponibilizada para ver la información de los usuarios.
-
+  Luego de la instalación, ingresa cualquier url de una imagen y si no tienes una usa la siguiente: [ruta](https://miviaje.com/wp-content/uploads/2016/05/shutterstock_337174700.jpg)
 ### Quiénes contribuyeron ✒️
 
 + [Juan Vega](https://github.com/juanv5)
