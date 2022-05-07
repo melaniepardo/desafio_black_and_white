@@ -1,7 +1,7 @@
 # Desafío Black and white 
 ## Descripción proyecto
-Proyecto que le permite a los usuarios de una resolver un problema con su software de gestión de citas,  mediante un servidor que sea capaz de registrar a los
-nuevos usuarios almacenando su nombre, apellido, hora de atención y su correspondiente código identificador.
+Proyecto que le permite a la empresa Black and White SPA (empresa ficticia para los efectos del desafio) crear un sitio web que permita escribir la URL de una imagen de internet y que sea procesada por el servidor para ser devuelta en blanco y negro. Se crea un servidor que disponibiliza una ruta raíz que devuelva un HTML con el
+formulario para ingresar la URL de la imagen con estilos CSS de un documento interno en los archivos del servidor. El formulario debe redirigir a otra ruta del servidor que procese la imagen y la devuelva en blanco y negro.
 
 ## Contenidos aplicados 📖
 
